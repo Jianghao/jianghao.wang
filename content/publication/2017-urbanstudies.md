@@ -1,7 +1,7 @@
 +++
 abstract = "China is known in the post-cold war era for its rapid urban regeneration. Urban villages that emit negative social externalities are a unique and salient disamenity, and are central to the urban regeneration policy and planning. This paper uses micro-geographical data to explore how the extent and configuration of recently renewed urban villages in Beijing have influenced nearby housing values. Compared with locations having similar demographic characteristics, locations near urban village renewal sites experienced increases in housing values. Additional results quantify evidence in support of the heterogeneous effects from urban village renewals in affected areas versus unaffected areas."
 abstract_short = ""
-authors = ["W Wu", "JH Wang*"]
+authors = ["W Wu", "**JH Wang***"]
 date = "2017-01-01"
 image_preview = ""
 math = true
