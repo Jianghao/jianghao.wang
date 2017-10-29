@@ -66,8 +66,8 @@ defaultContentLanguageInSubdir = false
   #   Get your coords: Right-click place on Google Maps. Select 'What's here?'. At the bottom is a card with the coords.
   #   Disable Google Maps by clearing all three options to "".
   # google_maps_api_key = "AIzaSyC0UpDZelwtllqj2RKVKopeyqUHvuE2a1o"
-  latitude = "40.0020075"
-  longitude = "116.380933"
+  # latitude = "40.0020075"
+  # longitude = "116.380933"
 
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -229,6 +229,11 @@ defaultContentLanguageInSubdir = false
   name = "Contact"
   url = "#contact"
   weight = 7
+
+[[menu.main]]
+  name = "CV"
+  url = "cv.pdf"
+  weight = 8
 
 # Taxonomies.
 [taxonomies]
