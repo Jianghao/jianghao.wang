@@ -39,11 +39,11 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Jianghao Wang"
-  role = "Assistant Professor of GIScience"
+  role = "Associate Professor of GIScience"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "IGSNRR, Chinese Academy of Sciences", url = "" } ]
+  organizations = [ { name = "IGSNRR, Chinese Academy of Sciences", url = "http://english.igsnrr.cas.cn/" }, { name = "MIT CFC Lab", url = "https://cfclab.mit.edu/" } ]
 
   gravatar = true  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
