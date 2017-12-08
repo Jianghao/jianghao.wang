@@ -20,7 +20,8 @@ Teaching instructor at *University of Chinese Academy of Sciences (UCAS)*:
     - 2015, 2016, 2017, undergraduates, 200 students, 20 class hours
     - Course **website**: http://giser.me/
 * Modern Cartography – Web Cartography
-    - 2015, 2016, undergraduates, 30–40 students, 4 class hours
+    - 2015, 2016, 2017, undergraduates, 30–40 students, 6 class hours
+    - Course **website**: https://github.com/Jianghao/ucasmap/
 * Map Design and Making – Geo-spatial Big Data Mapping
     - 2016, undergraduates, 20–30 students, 3 class hours, Invited by Prof. Yingjie Wang
 
