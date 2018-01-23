@@ -118,6 +118,18 @@ for (i in 1:nrow(all.packages))
 }
 ```
 
+## Configure R with Chinese Env.
+> Ref: https://stackoverflow.com/questions/39304082/show-chinese-character-in-ggplot2
+> Ref: http://www.lypblog.com/index.php/archives/30/
+
+```
+echo $LANG
+
+sudo apt-get update && apt-get install language-pack-zh-hans
+sudo apt-get install fonts-wqy-zenhei
+sudo apt-get install fonts-arphic-bkai00mp fonts-arphic-bsmi00lp fonts-arphic-gbsn00lp fonts-arphic-gkai00mp fonts-arphic-ukai fonts-arphic-uming fonts-cns11643-kai fonts-cns11643-sung fonts-cwtex-fs fonts-cwtex-heib fonts-cwtex-kai fonts-cwtex-ming fonts-cwtex-yen
+```
+
 
 # Use `RStudio Server`
 
