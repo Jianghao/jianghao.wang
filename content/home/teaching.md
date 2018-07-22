@@ -16,9 +16,12 @@ weight = 40
 
 Teaching instructor at *University of Chinese Academy of Sciences (UCAS)*:
 
+* Application in Geographical Information Science – Urban Computing
+    - 2018, undergraduates, 60 students, 6 class hours
+    - Course **website**: https://github.com/Jianghao/ucasgisapp
 * Geographical Information Science Tutorial and Practice
     - 2015, 2016, 2017, undergraduates, 200 students, 20 class hours
-    - Course **website**: http://giser.me/
+    - Course **website**: https://github.com/Jianghao/ucasgis; http://giser.me/
 * Modern Cartography – Web Cartography
     - 2015, 2016, 2017, undergraduates, 30–40 students, 6 class hours
     - Course **website**: https://github.com/Jianghao/ucasmap/
